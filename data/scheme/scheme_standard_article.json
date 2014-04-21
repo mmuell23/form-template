@@ -1,0 +1,9 @@
+{
+	"name": "standard_article",
+	"fields": [
+		{ "name":"Title", "type": "text", "length": 100, "id": "title", "placeholder": "Bitte Titel eingeben" },
+		{ "name":"Text", "type": "textarea", "id": "text", "placeholder": "Bitte Text eingeben" },
+		{ "name":"Subtitle", "type": "text", "length": 100, "id": "subtitle", "placeholder": "Bitte Untertitel eingeben" },
+		{ "name":"Teaser", "type": "text", "length": 200, "id": "teaser", "placeholder": "Bitte Teasertext eingeben" }
+	]
+}
